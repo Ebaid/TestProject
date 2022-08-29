@@ -1,0 +1,26 @@
+
+body {
+    background-color: #DBF9FC;
+    }
+
+    html {
+        height: 180%;
+        }
+        body {
+        background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
+        
+        }
+        .box {
+            border-top-right-radius: 1em 10%;
+          }
+          .box {
+            background-color: #567895;
+            border: 5px solid #0b385f;
+            border-bottom-style: dashed;
+            color: #fff;
+          }
+          
+          h2 {
+            border-top: 2px dotted rebeccapurple;
+            border-bottom: 2px dotted rebeccapurple;
+          }
